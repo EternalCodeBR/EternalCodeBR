@@ -13,9 +13,7 @@ projetos que desenvolvi.
 | **[Modelo MtM — VBA → Python](https://github.com/CodEternal/modelo-mtm-anbima)** | Migração do modelo de Marcação na Curva (convenções ANBIMA) para Python, com batimento automático no centavo |
 | **[Coleta automatizada de PUs](https://github.com/CodEternal/coleta-pus)** | Integração com agentes fiduciários para captura automática de preços unitários |
 
-Cada repositório está descrito em **Problema → Solução → Resultado**, com foco no impacto
-para o negócio.
-
+Cada repositório está descrito em **Problema → Solução → Resultado.**
 ## Stack
 
 Python · VBA/Excel · APIs de mercado (B3 / IPEA / FRED) · automação de rotina
