@@ -17,6 +17,6 @@ projetos que desenvolvi.
 Cada repositório está descrito em **Problema → Solução → Resultado.**
 ## Stack
 
-Python · SQL · VBA/Excel
+Python · SQL · VBA
 
 📍 São Paulo · ✉️ oliveira.marcio@edu.fecap.br
